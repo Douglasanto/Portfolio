@@ -1,0 +1,27 @@
+[
+    {
+        "id": "home",
+        "title": "Home",
+        "url": "home-section"
+    },
+    {
+        "id": "about",
+        "title": "About",
+        "url": "about-section"
+    },
+    {
+        "id": "works",
+        "title": "Works",
+        "url": "works-section"
+    },
+    {
+        "id": "services",
+        "title": "Services",
+        "url": "services-section"
+    },
+    {
+        "id": "contact",
+        "title": "Contact",
+        "url": "contact-section"
+    }
+]
