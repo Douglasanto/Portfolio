@@ -1,6 +1,7 @@
 import React from 'react';
 
 import images from '../../data/images.js';
+import Image from 'next/image.js';
 
 const Stacks = () => {
     return (
@@ -17,10 +18,12 @@ const Stacks = () => {
               <div className="grid grid-cols-3 gap-6 lg:flex">
                 {images.map(({ name, image }) => (
                   <div key={name}>
-                    <img
+                    <Image  
                       src={image.src}
                       alt={name}
                       className="bg-white rounded-[8px] box hover:rounded-[16px] hover:-translate-y-2 transition-all ease-expo"
+                      width={500}
+                      height={500}
                     />
                   </div>
                 ))}

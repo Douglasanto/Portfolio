@@ -149,12 +149,12 @@ const Works = () => {
                     Recentemente, contribuí com a atualização visual do site da
                     MB Transportadora. Embora não tenha sido o criador original,
                     fui responsável por aprimorar o aspecto visual do site. O
-                    lema "Transportando segurança e qualidade por todo Brasil"
-                    reflete nossa dedicação em fornecer serviços confiáveis e de
-                    qualidade em todo o país. Foi gratificante colaborar na
-                    melhoria da presença online da MB Transportadora,
-                    proporcionando uma experiência mais atrativa e informativa
-                    para os visitantes.
+                    lema &quot;Transportando segurança e qualidade por todo
+                    Brasil&quot; reflete nossa dedicação em fornecer serviços
+                    confiáveis e de qualidade em todo o país. Foi gratificante
+                    colaborar na melhoria da presença online da MB
+                    Transportadora, proporcionando uma experiência mais atrativa
+                    e informativa para os visitantes.
                   </span>
                 </div>
               </div>
