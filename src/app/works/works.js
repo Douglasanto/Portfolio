@@ -4,13 +4,6 @@ import Link from "next/link";
 import Image from "next/image";
 
 
-import BahiaSat from "../../../public/bahiasat.jpg";
-import MB from "../../../public/MB.png";
-import work4 from "../../../public/work4.png";
-import cedraz from "../../../public/cedraz.png";
-import petiko from "../../../public/petiko.png";
-import nexo from "../../../public/nexo.png";
-
 const Works = () => {
   return (
     <>
