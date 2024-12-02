@@ -55,7 +55,7 @@ const Works = () => {
             <Link className="group" href="#" target="_blank">
               <div className="overflow-hidden group-hover:rounded-xl transition-all duration-300 rounded mb-4 xl:mb-5 2xl:mb-6 3xl:mb-7 ">
                 <Image
-                  src="/Clowbozy.jpg"
+                  src="/clowbozy.jpg"
                   loading="lazy"
                   width={1000}
                   height={1000}
@@ -209,7 +209,7 @@ const Works = () => {
             <Link className="group" href="#" target="_blank">
               <div className="overflow-hidden group-hover:rounded-xl transition-all duration-300 rounded mb-4 xl:mb-5 2xl:mb-6 3xl:mb-7 ">
                 <Image
-                  src="/cedraz.png"
+                  src="/Cedraz.png"
                   loading="lazy"
                   width={1000}
                   height={1000}
