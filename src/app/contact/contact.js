@@ -55,7 +55,7 @@ const Contact = () => {
         <div className="flex justify-between gap-x-10 mt-14 items-end">
           <span className="md:col-span-6 col-span-8 lg:col-span-6 font-bold leading-[85%] uppercase text-md sm:text-lg lg:text-xl tracking-heading">
             {/* order-last sm:order-first  */}
-            © 2024
+            © 2025
             <b r className="block" />
             Douglas Santo
           </span>

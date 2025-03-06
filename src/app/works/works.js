@@ -3,7 +3,6 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-
 const Works = () => {
   return (
     <>
@@ -16,7 +15,7 @@ const Works = () => {
         </h2>
         {/* <div className="view mouse"></div> */}
         <div className="grid grid-cols-1 gap-x-14 xl:gap-x-18 2xl:gap-x-20 3xl:gap-x-24 gap-y-10 md:gap-y-20 pb-20 lg:grid-cols-12">
-          <div className="work-1 @container">
+          {/* <div className="work-1 @container">
             <div>
               <div className="flex flex-col @lg:flex-row justify-between mt-3 gap-y-4">
                 <h3 className=" text-md w-fit 2xl:text-h3 3xl:text-lg font-bold">
@@ -101,9 +100,13 @@ const Works = () => {
                 </div>
               </div>
             </div>
-          </div>
-          <div className="work-3 @container">
-            <Link className="group" href="#" target="_blank">
+          </div> */}
+          {/* <div className="work-3 @container">
+            <Link
+              className="group"
+              href="https://mbtransportesdeveiculos.com.br/"
+              target="_blank"
+            >
               <div className="overflow-hidden group-hover:rounded-xl transition-all duration-300 rounded mb-4 xl:mb-5 2xl:mb-6 3xl:mb-7 ">
                 <Image
                   src="/bahiasat.jpg"
@@ -117,7 +120,7 @@ const Works = () => {
                 />
               </div>
             </Link>
-          </div>
+          </div> */}
           <div className=" work-1 @container">
             <div className="group">
               <div className="flex flex-col @lg:flex-row justify-between mt-3 gap-y-4">
@@ -154,7 +157,11 @@ const Works = () => {
             </div>
           </div>
           <div className="work-0 @container">
-            <Link className="group" href="#" target="_blank">
+            <Link
+              className="group"
+              href="https://mbtransportesdeveiculos.com.br/"
+              target="_blank"
+            >
               <div className="overflow-hidden group-hover:rounded-xl transition-all duration-300 rounded mb-4 xl:mb-5 2xl:mb-6 3xl:mb-7 ">
                 <Image
                   src="/MB.png"
@@ -169,7 +176,7 @@ const Works = () => {
               </div>
             </Link>
           </div>
-          <div className="work-2 @container">
+          {/* <div className="work-2 @container">
             <div className="group">
               <div className="flex flex-col @lg:flex-row justify-between mt-3 gap-y-4">
                 <h3 className="text-md w-fit 2xl:text-h3 3xl:text-lg font-bold">
@@ -220,7 +227,7 @@ const Works = () => {
                 />
               </div>
             </Link>
-          </div>
+          </div> */}
           <div className=" work-1 @container">
             <div className="group">
               <div className="flex flex-col @lg:flex-row justify-between mt-3 gap-y-4">

@@ -8,6 +8,34 @@ body {
   margin: 0;
   line-height: inherit;
 }
+body.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body.dark {
+  background-color: #1a202c;
+  color: #ffffff;
+}
+
+body.dark span,
+body.dark h1,
+body.dark h2,
+body.dark a,
+body.dark button {
+  color: #fff !important;
+}
+
+body.dark .hero-bg {
+  -webkit-animation: morph 8s ease-in-out infinite;
+  animation: morph 8s ease-in-out infinite;
+  border: 3px solid #fff;
+  border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
+  transition: all 1s ease-in-out;
+}
+body.dark .underline-transition:before {
+ background-color: #fff;
+}
 html.lenis {
   height: auto;
 }

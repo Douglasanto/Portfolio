@@ -57,11 +57,11 @@ const Hero = () => {
                     Olá👋 Meu nome é Douglas
                   </h2>
                   <h1 className="sm:text-right md:text-center tracking-wider">
-                    Desenvolvedor Front-end
+                    Desenvolvedor FullStack
                   </h1>
-                  <h1 className="sm:text-right md:text-center tracking-wider">
+                  {/* <h1 className="sm:text-right md:text-center tracking-wider">
                     & Back-End
-                  </h1>
+                  </h1> */}
                 </div>
               </div>
               <Image
